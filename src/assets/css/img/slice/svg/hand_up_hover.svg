@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="20px" viewBox="0 0 40 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>上课备份 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-1196.000000, -1020.000000)">
+            <path d="M1196.75472,1020 L1235.24528,1020 C1235.6621,1020 1236,1020.59695 1236,1021.33333 L1236,1038.66667 C1236,1039.40305 1235.6621,1040 1235.24528,1040 L1196.75472,1040 C1196.3379,1040 1196,1039.40305 1196,1038.66667 L1196,1021.33333 C1196,1020.59695 1196.3379,1020 1196.75472,1020 Z" id="形状结合备份-3" fill="#0A818C" transform="translate(1216.000000, 1030.000000) scale(-1, 1) translate(-1216.000000, -1030.000000) "></path>
+            <text id="举手" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#FFFFFF">
+                <tspan x="1204" y="1035">举手</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

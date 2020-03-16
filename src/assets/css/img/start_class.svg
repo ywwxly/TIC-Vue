@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="20px" viewBox="0 0 40 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>上课</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-1196.000000, -1014.000000)">
+            <path d="M1196.75472,1014 L1235.24528,1014 C1235.6621,1014 1236,1014.59695 1236,1015.33333 L1236,1032.66667 C1236,1033.40305 1235.6621,1034 1235.24528,1034 L1196.75472,1034 C1196.3379,1034 1196,1033.40305 1196,1032.66667 L1196,1015.33333 C1196,1014.59695 1196.3379,1014 1196.75472,1014 Z" id="形状结合" fill="#0A818C" transform="translate(1216.000000, 1024.000000) scale(-1, 1) translate(-1216.000000, -1024.000000) "></path>
+            <text id="上课" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#FFFFFF">
+                <tspan x="1204" y="1028">上课</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

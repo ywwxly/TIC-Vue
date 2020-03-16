@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>图标状态</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-704.000000, -360.000000)">
+            <g id="切片" transform="translate(286.000000, 221.000000)"></g>
+            <g id="侧栏操作icon" transform="translate(696.000000, 243.000000)">
+                <g id="选中" transform="translate(8.000000, 117.000000)"></g>
+                <g id="文字" transform="translate(14.000000, 123.000000)" fill="#737882">
+                    <rect id="Rectangle-13" x="0" y="0" width="18" height="2"></rect>
+                    <rect id="Rectangle-13" x="0" y="0" width="2" height="3"></rect>
+                    <rect id="Rectangle-13" x="16" y="0" width="2" height="3"></rect>
+                    <rect id="Rectangle-13" transform="translate(9.000000, 17.000000) rotate(-270.000000) translate(-9.000000, -17.000000) " x="8" y="13" width="2" height="8"></rect>
+                    <rect id="Rectangle-13" transform="translate(9.000000, 10.000000) rotate(-90.000000) translate(-9.000000, -10.000000) " x="1" y="9" width="16" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

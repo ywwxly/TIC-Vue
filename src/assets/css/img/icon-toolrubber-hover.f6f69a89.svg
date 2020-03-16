@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>图标状态</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-628.000000, -396.000000)">
+            <g id="切片" transform="translate(286.000000, 221.000000)"></g>
+            <g id="侧栏操作icon" transform="translate(620.000000, 243.000000)">
+                <g id="选中" transform="translate(8.000000, 153.000000)" fill="#000000" opacity="0.502418155">
+                    <rect id="矩形" x="0" y="0" width="30" height="30" rx="2"></rect>
+                </g>
+                <g id="橡皮" transform="translate(12.000000, 158.000000)">
+                    <path d="M5.66726082,3.66217759 L5.58614619,19.2755451 L12.1041412,19.2721095 L15.7584592,15.6177915 L15.6790615,3.66217759 L5.66726082,3.66217759 Z" id="矩形" stroke="#DCEBEB" stroke-width="2" transform="translate(10.671074, 11.469126) rotate(-315.000000) translate(-10.671074, -11.469126) "></path>
+                    <rect id="矩形" fill="#DCEBEB" transform="translate(14.071068, 8.071068) rotate(-45.000000) translate(-14.071068, -8.071068) " x="10.0710678" y="2.07106781" width="8" height="12"></rect>
+                    <rect id="Rectangle-13" fill="#DCEBEB" x="6" y="17" width="15" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

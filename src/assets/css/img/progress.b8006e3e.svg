@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>进度条按钮</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-667.000000, -894.000000)">
+            <g id="编组-6" transform="translate(85.000000, 893.607422)">
+                <g id="02" transform="translate(0.000000, 0.392578)">
+                    <g id="切片"></g>
+                </g>
+                <g id="01" transform="translate(0.000000, 2.392578)" fill="#0A818C">
+                    <circle id="椭圆形" opacity="0.378952753" cx="592" cy="8" r="8"></circle>
+                    <circle id="椭圆形" cx="592" cy="8" r="4"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

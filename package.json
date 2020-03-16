@@ -8,16 +8,27 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "core-js": "^3.6.4",
-    "vue": "^2.6.11"
+    "cos-js-sdk-v5": "^0.5.23",
+    "js-md5": "^0.7.3",
+    "keycode": "^2.2.0",
+    "less-loader": "^5.0.0",
+    "moment": "^2.24.0",
+    "pretty-bytes": "^5.3.0",
+    "store": "^2.0.12",
+    "trtc-js-sdk": "^4.3.9",
+    "vue": "^2.6.11",
+    "vue-color": "^2.7.1",
+    "vue-router": "^3.1.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
     "@vue/cli-plugin-eslint": "~4.2.0",
     "@vue/cli-service": "~4.2.0",
     "babel-eslint": "^10.0.3",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.1.2",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
@@ -37,5 +48,10 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

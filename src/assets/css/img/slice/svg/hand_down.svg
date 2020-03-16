@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="20px" viewBox="0 0 64 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>边距</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-1244.000000, -1047.000000)">
+            <g id="边距" transform="translate(1244.000000, 1047.000000)">
+                <path d="M1.20754717,0 L62.7924528,0 C63.4593627,0 64,0.596953667 64,1.33333333 L64,18.6666667 C64,19.4030463 63.4593627,20 62.7924528,20 L1.20754717,20 C0.540637283,20 0,19.4030463 0,18.6666667 L0,1.33333333 C0,0.596953667 0.540637283,0 1.20754717,0 Z" id="形状结合备份-2" fill="#FF6863" transform="translate(32.000000, 10.000000) scale(-1, 1) translate(-32.000000, -10.000000) "></path>
+                <path d="M1.20754717,0 L62.7924528,0 C63.4593627,0 64,0.596953667 64,1.33333333 L64,18.6666667 C64,19.4030463 63.4593627,20 62.7924528,20 L1.20754717,20 C0.540637283,20 0,19.4030463 0,18.6666667 L0,1.33333333 C0,0.596953667 0.540637283,0 1.20754717,0 Z" id="形状结合备份-4" fill-opacity="0.2" fill="#000000" transform="translate(32.000000, 10.000000) scale(-1, 1) translate(-32.000000, -10.000000) "></path>
+                <text id="取消举手" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#FFFFFF">
+                    <tspan x="8" y="15">取消举手</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

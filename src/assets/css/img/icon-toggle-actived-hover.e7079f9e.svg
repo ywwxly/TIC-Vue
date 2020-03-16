@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>箭头</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-627.000000, -735.000000)">
+            <g id="切片" transform="translate(286.000000, 221.000000)"></g>
+            <g id="右侧收起" transform="translate(627.000000, 735.000000)">
+                <path d="M2,0 L40,0 L40,40 L2,40 C0.8954305,40 1.3527075e-16,39.1045695 0,38 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="矩形" fill="#212224"></path>
+                <g id="编组-3" transform="translate(20.000000, 20.000000) scale(-1, 1) translate(-20.000000, -20.000000) translate(10.000000, 10.000000)">
+                    <path d="M2,3.5 L18,3.5" id="直线-2" stroke="#DCEBEB" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M9,9.5 L18,9.5" id="直线-2" stroke="#DCEBEB" stroke-width="2" stroke-linecap="square"></path>
+                    <polygon id="三角形" fill="#DCEBEB" transform="translate(3.500000, 9.500000) rotate(-270.000000) translate(-3.500000, -9.500000) " points="3.5 7 7 12 -3.38218342e-12 12"></polygon>
+                    <path d="M2,15.5 L18.001709,15.5" id="直线-2" stroke="#DCEBEB" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

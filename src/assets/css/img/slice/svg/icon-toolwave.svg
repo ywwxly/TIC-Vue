@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>图标状态</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-34.000000, -36.000000)">
+            <g id="选中-弹出" transform="translate(22.000000, 26.000000)">
+                <rect id="Rectangle-5" fill="#101112" opacity="0" x="0" y="0" width="133" height="172"></rect>
+                <path d="M13.5512595,18.2573936 C17.985529,15.1333341 20.3616342,18.084974 22.0122036,19.678027 C23.6627729,21.2710801 26.2790779,23.8088727 30.5569917,20.4077599" id="直线-9" stroke="#737882" stroke-width="2" stroke-linecap="square" transform="translate(22.054126, 19.487143) rotate(-15.000000) translate(-22.054126, -19.487143) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

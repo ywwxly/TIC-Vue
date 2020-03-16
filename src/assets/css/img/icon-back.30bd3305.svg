@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>返回箭头</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-1773.000000, -1006.000000)">
+            <g id="分组-17" transform="translate(1780.071068, 1011.000000) rotate(-45.000000) translate(-1780.071068, -1011.000000) translate(1775.071068, 1006.000000)">
+                <path d="M5,-1 L5,-1 C5.55228475,-1 6,-0.55228475 6,-5.97299987e-13 L6,11 L4,11 L4,-5.96855898e-13 C4,-0.55228475 4.44771525,-1 5,-1 Z" id="矩形" fill="#888888" fill-rule="nonzero" transform="translate(5.000000, 5.000000) rotate(-45.000000) translate(-5.000000, -5.000000) "></path>
+                <path d="M1.46446609,1.46446609 L5.70710678,1.46446609" id="路径-2" stroke="#888888" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M1.46446609,5.46446609 L1.46446609,1.29289322" id="路径-2" stroke="#888888" stroke-width="2" stroke-linecap="square" transform="translate(1.000000, 3.500000) scale(1, -1) translate(-1.000000, -3.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

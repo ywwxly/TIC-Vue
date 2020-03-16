@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>记录备份 31</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标备份" transform="translate(-721.000000, -94.000000)">
+            <g id="编组-14" transform="translate(721.000000, 94.000000)">
+                <circle id="椭圆形" fill="#DDDDDD" cx="15" cy="15" r="15"></circle>
+                <g id="编组-10" transform="translate(7.000000, 7.000000)">
+                    <path d="M14,12 L12,12 C12,9.790861 10.209139,8 8,8 C5.790861,8 4,9.790861 4,12 L2,12 C2,8.6862915 4.6862915,6 8,6 C11.3137085,6 14,8.6862915 14,12 Z" id="形状结合" fill="#979797" fill-rule="nonzero"></path>
+                    <rect id="矩形" stroke="#979797" stroke-width="2" x="1" y="12" width="14" height="3"></rect>
+                    <circle id="椭圆形" stroke="#979797" stroke-width="2" cx="8" cy="4" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

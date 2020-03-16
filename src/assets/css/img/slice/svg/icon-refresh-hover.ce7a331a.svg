@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>切片</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-1407.000000, -863.000000)">
+            <g id="切片" transform="translate(286.000000, 221.000000)"></g>
+            <g id="编组-4" transform="translate(1409.000000, 863.000000)" fill="#0A818C">
+                <path d="M6,2 L6,4 C3.790861,4 2,5.790861 2,8 C2,8.58202337 2.1243073,9.13501321 2.34782092,9.63386854 L0.869332315,11.1123571 C0.317688855,10.2049278 0,9.139564 0,8 C0,4.6862915 2.6862915,2 6,2 Z" id="形状结合" fill-rule="nonzero"></path>
+                <polygon id="三角形" transform="translate(7.500000, 2.934082) rotate(-270.000000) translate(-7.500000, -2.934082) " points="7.51566544 1.43408203 10.434082 4.43408203 4.56591797 4.43408203"></polygon>
+                <path d="M12,5 L12,7 C9.790861,7 8,8.790861 8,11 C8,11.5820234 8.1243073,12.1350132 8.34782092,12.6338685 L6.86933232,14.1123571 C6.31768886,13.2049278 6,12.139564 6,11 C6,7.6862915 8.6862915,5 12,5 Z" id="形状结合" fill-rule="nonzero" transform="translate(9.000000, 9.556179) scale(-1, -1) translate(-9.000000, -9.556179) "></path>
+                <polygon id="三角形" transform="translate(4.500000, 12.934082) scale(-1, 1) rotate(-270.000000) translate(-4.500000, -12.934082) " points="4.51566544 11.434082 7.43408203 14.434082 1.56591797 14.434082"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

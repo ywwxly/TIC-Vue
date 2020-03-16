@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>图标状态</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-704.000000, -288.000000)">
+            <g id="切片" transform="translate(286.000000, 221.000000)"></g>
+            <g id="侧栏操作icon" transform="translate(696.000000, 243.000000)">
+                <g id="选中" transform="translate(8.000000, 45.000000)"></g>
+                <g id="铅笔" transform="translate(13.000000, 50.000000)">
+                    <g id="编辑" fill="#737882" fill-rule="nonzero">
+                        <path d="M14.7376338,0 L12,2.73747109 L15.2623662,6 L18,3.26252891 L14.7376338,0 Z M0.0673622,13.6617819 L0.0673622,17 L3.5,17 L14,7.28018757 L10.6276686,4 L0.0673622,13.6617819 Z" id="Shape"></path>
+                    </g>
+                    <polygon id="Rectangle-6" fill="#8A9099" points="20 16 20 20 16 20"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

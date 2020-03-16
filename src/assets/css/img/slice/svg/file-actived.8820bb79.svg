@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>形状结合备份 10</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标备份" transform="translate(-298.000000, -355.000000)">
+            <g id="编组备份-6" transform="translate(298.000000, 355.000000)">
+                <g id="编组-19">
+                    <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                    <g id="编组-18" transform="translate(3.000000, 1.000000)">
+                        <path d="M1,1 L1,21 L17,21 L17,5.41421356 L12.5857864,1 L1,1 Z" id="路径" stroke="#DCEBEB" stroke-width="2"></path>
+                        <rect id="矩形" fill="#DCEBEB" x="4" y="8" width="10" height="2"></rect>
+                        <rect id="矩形备份-2" fill="#DCEBEB" x="4" y="14" width="8" height="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

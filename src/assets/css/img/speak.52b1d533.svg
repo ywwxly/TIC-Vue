@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>图标状态</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-1662.000000, -358.000000)">
+            <g id="切片" transform="translate(286.000000, 221.000000)"></g>
+            <g id="编组-8" transform="translate(1664.000000, 359.778175)" stroke="#888888" stroke-width="2">
+                <path d="M2.0018158,15.2199944 L7.8271167,15.2199944 L7.84831312,15.220219 C7.8988011,15.2212894 7.94936505,15.2218254 8,15.2218254 C11.8659932,15.2218254 15,12.0878187 15,8.22182541 C15,4.35583216 11.8659932,1.22182541 8,1.22182541 C4.13400675,1.22182541 1,4.35583216 1,8.22182541 C1,9.42720542 1.30418994,10.58617 1.8759892,11.6154892 L2.0018158,11.8419948 L2.0018158,15.2199944 Z" id="形状结合" transform="translate(8.000000, 8.221825) scale(-1, 1) translate(-8.000000, -8.221825) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

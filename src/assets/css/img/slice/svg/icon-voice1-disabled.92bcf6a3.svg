@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>话筒禁音</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-287.000000, -811.000000)">
+            <g id="切片" transform="translate(286.000000, 221.000000)"></g>
+            <g id="编组-6" transform="translate(292.000000, 816.000000)">
+                <g>
+                    <circle id="椭圆形" fill="#34363B" cx="15" cy="15" r="15"></circle>
+                    <g id="编组-7" transform="translate(8.000000, 7.000000)" fill="#4B505A">
+                        <rect id="矩形" x="4" y="0" width="6" height="12" rx="3"></rect>
+                        <path d="M14,9 L14,9.64705882 C14,13.1556914 10.8659932,16 7,16 C3.13400675,16 -3.46944695e-18,13.1556914 -3.46944695e-18,9.64705882 L-3.46944695e-18,9 L0.998565674,9 L2,9 L2,9.33333333 C2,11.9106622 4.23857625,14 7,14 C9.76142375,14 12,11.9106622 12,9.33333333 L12,9 L12.0045471,9 L13.0058899,9 L14,9 Z" id="形状结合" fill-rule="nonzero"></path>
+                    </g>
+                    <path d="M15.0515058,5.85867433 L15.1890947,28.2271411" id="直线-5" stroke="#34363B" stroke-width="2" stroke-linecap="square" transform="translate(15.120300, 17.042908) rotate(-315.000000) translate(-15.120300, -17.042908) "></path>
+                    <path d="M13.945727,4.32702786 L14.0600103,26.4318833" id="直线-5" stroke="#34363B" stroke-width="2" stroke-linecap="square" transform="translate(14.002869, 15.379456) rotate(-315.000000) translate(-14.002869, -15.379456) "></path>
+                    <path d="M15.3421702,1.43978379 L15.4786364,29.244902" id="直线-5" stroke="#4B505A" stroke-width="2" stroke-linecap="square" transform="translate(15.410403, 15.342343) rotate(-315.000000) translate(-15.410403, -15.342343) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

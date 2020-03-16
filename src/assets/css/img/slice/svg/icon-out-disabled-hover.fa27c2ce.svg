@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>z</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-423.000000, -811.000000)">
+            <g id="切片" transform="translate(286.000000, 221.000000)"></g>
+            <circle id="椭圆形" fill="#34363B" cx="443" cy="830" r="15"></circle>
+            <g id="编组-10" transform="translate(433.000000, 820.000000)">
+                <g>
+                    <path d="M16,13 L14,13 C14,10.790861 12.209139,9 10,9 C7.790861,9 6,10.790861 6,13 L4,13 C4,9.6862915 6.6862915,7 10,7 C13.3137085,7 16,9.6862915 16,13 Z" id="形状结合" fill="#DCEBEB" fill-rule="nonzero"></path>
+                    <rect id="矩形" stroke="#DCEBEB" stroke-width="2" x="3" y="13" width="14" height="3"></rect>
+                    <circle id="椭圆形" stroke="#DCEBEB" stroke-width="2" cx="10" cy="5" r="3"></circle>
+                    <path d="M9.97793351,1.02644786 L10.1277794,23.1932787" id="直线-5" stroke="#4B505A" stroke-width="2" stroke-linecap="square" transform="translate(10.052856, 12.109863) rotate(-315.000000) translate(-10.052856, -12.109863) "></path>
+                    <path d="M8.84384243,-0.592880803 L9.01492222,21.3806005" id="直线-5" stroke="#4B505A" stroke-width="2" stroke-linecap="square" transform="translate(8.929382, 10.393860) rotate(-315.000000) translate(-8.929382, -10.393860) "></path>
+                    <path d="M10.298336,-3.59198801 L10.481884,24.276178" id="直线-5" stroke="#DCEBEB" stroke-width="2" stroke-linecap="square" transform="translate(10.390110, 10.342095) rotate(-315.000000) translate(-10.390110, -10.342095) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

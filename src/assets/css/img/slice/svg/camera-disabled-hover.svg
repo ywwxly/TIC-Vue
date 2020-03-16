@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>图标状态</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-1502.000000, -464.000000)">
+            <g id="切片" transform="translate(286.000000, 221.000000)"></g>
+            <g id="编组-3" transform="translate(1502.000000, 464.000000)">
+                <g id="编组-6" transform="translate(3.000000, 2.000000)">
+                    <g id="编组-5">
+                        <circle id="椭圆形" stroke="#0A818C" stroke-width="2" cx="7.5" cy="7.5" r="6.5"></circle>
+                        <circle id="椭圆形" fill="#0A818C" cx="7.5" cy="7.5" r="3.5"></circle>
+                        <path d="M4.41102946,15 L10.6010497,15 L12.3588442,16.703671 L13.0548096,14.9855957 L10.9705753,14.9855957 L10.3101686,14.7180753 L10.5861878,14.9855957 L4.42559139,14.9855957 L4.70324846,14.7109442 L4.03504444,14.9855957 L1.99267578,14.9855957 L2.69592424,16.6965399 L4.41102946,15 Z" id="路径-11" stroke="#0A818C" stroke-width="2"></path>
+                    </g>
+                </g>
+                <path d="M9.38477631,-1.53048181 L9.38477631,19.6148556" id="直线-5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" transform="translate(9.192388, 9.000000) rotate(-315.000000) translate(-9.192388, -9.000000) "></path>
+                <path d="M11.029407,0.400412313 L11.024487,20.1182644" id="直线-5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" transform="translate(11.026947, 10.259338) rotate(-315.000000) translate(-11.026947, -10.259338) "></path>
+                <path d="M10.4601551,1.03788105 L10.4601551,18.9895924" id="直线-5" stroke="#0A818C" stroke-width="2" stroke-linecap="square" transform="translate(10.960155, 9.646447) rotate(-315.000000) translate(-10.960155, -9.646447) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="120px" viewBox="0 0 150 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>没有课表</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,11 L92,11 L92,79 C92,82.3137085 89.3137085,85 86,85 L6,85 C2.6862915,85 4.05812251e-16,82.3137085 0,79 L0,11 Z" id="path-1"></path>
+        <filter x="-8.6%" y="-300.0%" width="117.1%" height="700.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-1629.000000, -800.000000)">
+            <rect id="矩形" fill="#FFE0E0" opacity="0" x="1629" y="800" width="150" height="120"></rect>
+            <g id="形状结合" transform="translate(1658.000000, 807.000000)">
+                <polygon id="蒙版" fill="#3E424B" points="11 1.76941795e-15 80 1.76941795e-15 80 85 11 85"></polygon>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#454952" xlink:href="#path-1"></use>
+                <path d="M12,101 L80,101 C80.5522847,101 81,101.447715 81,102 L81,102 C81,102.552285 80.5522847,103 80,103 L12,103 C11.4477153,103 11,102.552285 11,102 L11,102 C11,101.447715 11.4477153,101 12,101 Z" id="蒙版" fill="#454952" opacity="0.696916853" filter="url(#filter-3)"></path>
+                <rect id="矩形" fill="#34363B" opacity="0.745605469" x="26" y="27" width="40" height="8" rx="4"></rect>
+                <polyline id="路径-2" fill="#383A40" points="0 11 11 0 11 11"></polyline>
+                <polygon id="路径-2" fill="#383A40" transform="translate(86.000000, 5.500000) scale(-1, 1) translate(-86.000000, -5.500000) " points="80 11 92 0 92 11"></polygon>
+            </g>
+            <path d="M1724,892 L1684,892 C1684,883.163444 1691.16344,876 1700,876 L1708,876 C1716.83656,876 1724,883.163444 1724,892 Z M1694,864 L1694,854 L1704,854 C1709.52285,854 1714,858.477153 1714,864 C1714,869.522847 1709.52285,874 1704,874 C1698.47715,874 1694,869.522847 1694,864 Z" id="形状结合" fill="#212224"></path>
+            <path d="M1703.5304,881 L1702,878 L1707,878 L1705.52041,881 L1705.52948,881 L1707,887.977814 L1704.5,889.976074 L1702,887.977814 L1703.52917,881 L1703.5304,881 Z" id="形状结合" fill="#454952"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>图标状态</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-1732.000000, -463.000000)">
+            <g id="切片" transform="translate(286.000000, 221.000000)"></g>
+            <g id="编组-5" transform="translate(1733.000000, 464.000000)" stroke-width="2">
+                <circle id="椭圆形" stroke="#0A818C" cx="9" cy="9" r="7"></circle>
+                <path d="M7.00139179,11 L11,7" id="直线-3" stroke="#0A818C" stroke-linecap="square" transform="translate(9.000696, 9.000000) rotate(-315.000000) translate(-9.000696, -9.000000) "></path>
+                <path d="M8.38477631,-1.75230722 L8.38477631,17.3107575" id="直线-5" stroke="#FFFFFF" stroke-linecap="square" transform="translate(8.192388, 7.778175) rotate(-315.000000) translate(-8.192388, -7.778175) "></path>
+                <path d="M9.49388669,0.37848534 L9.50312258,18.7767271" id="直线-5" stroke="#FFFFFF" stroke-linecap="square" transform="translate(9.498505, 9.577606) rotate(-315.000000) translate(-9.498505, -9.577606) "></path>
+                <path d="M8.75304833,0.523162426 L8.75304833,18.4748737" id="直线-5" stroke="#0A818C" stroke-linecap="square" transform="translate(9.253048, 9.131728) rotate(-315.000000) translate(-9.253048, -9.131728) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>图标状态</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PC-端设计稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标状态" transform="translate(-704.000000, -252.000000)">
+            <g id="切片" transform="translate(286.000000, 221.000000)"></g>
+            <g id="侧栏操作icon" transform="translate(696.000000, 243.000000)">
+                <g id="选中" transform="translate(6.000000, 8.000000)">
+                    <path d="M13.0856867,6.97999467 L5.99431102,20.3925532 L13.9746582,18.0326822 L21.6532137,20.3033103 L13.0856867,6.97999467 Z" id="Triangle-6-Copy-2" stroke="#737882" stroke-width="2" transform="translate(13.974658, 13.512549) scale(-1, 1) rotate(-315.000000) translate(-13.974658, -13.512549) "></path>
+                    <rect id="矩形" fill="#737882" transform="translate(20.437763, 19.975653) scale(-1, 1) rotate(-135.000000) translate(-20.437763, -19.975653) " x="19.4377627" y="15.9756533" width="2" height="8"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
